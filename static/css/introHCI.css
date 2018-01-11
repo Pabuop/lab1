@@ -9,12 +9,19 @@
 	color: #CC00AA;
 }
 
+/* Defining the style for project class */
+.project {
+     background-color: #4F6175;
+     margin-left: 10px;
+}
+
 /* this style exists to make it obvious that you've successfully linked
-   the CSS to the page. feel free to remove it once the link is working. */
+   the CSS to the page. feel free to remove it once the link is working.
 body {
      border: 1px dotted gray;
      padding: 20px;
 }
+Task complete; removed. */ 
 
 .jumbotron {
 	position: relative;
